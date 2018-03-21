@@ -13,6 +13,7 @@
         <module>cz.malanius.udesee.conf</module>
         <module>cz.malanius.udesee.course</module>
         <module>cz.malanius.udesee.parser</module>
+        <module>cz.malanius.udesee.cli</module>
     </modules>
 
     <properties>
