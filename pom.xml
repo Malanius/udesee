@@ -11,6 +11,7 @@
 
     <modules>
         <module>cz.malanius.udesee.conf</module>
+        <module>cz.malanius.udesee.course</module>
     </modules>
 
     <properties>

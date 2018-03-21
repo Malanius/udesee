@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cz.malanius.udesee.conf/cz.malanius.udesee.conf.iml" filepath="$PROJECT_DIR$/cz.malanius.udesee.conf/cz.malanius.udesee.conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cz.malanius.udesee.course/cz.malanius.udesee.course.iml" filepath="$PROJECT_DIR$/cz.malanius.udesee.course/cz.malanius.udesee.course.iml" />
       <module fileurl="file://$PROJECT_DIR$/udesee.iml" filepath="$PROJECT_DIR$/udesee.iml" />
     </modules>
   </component>

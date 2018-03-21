@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cz.malanius.udesee.course" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cz.malanius.udesee.conf" target="9" />
+      <module name="cz.malanius.udesee.course" target="9" />
       <module name="udesee" target="9" />
     </bytecodeTargetLevel>
   </component>
