@@ -11,6 +11,8 @@ import java.util.regex.Pattern;
 
 public class Parser {
 
+    private static final org.slf4j.Logger LOG = org.slf4j.LoggerFactory.getLogger(Parser.class);
+
     private static final Pattern sectionPattern = Pattern.compile("^Section (\\d+): (.*)$");
     private static final int sectionNumberGroup = 1;
     private static final int sectionNameGroup = 2;
@@ -30,6 +32,7 @@ public class Parser {
         int lineNum = 0;
 
         for (String line : lines) {
+            LOG.debug("Parsing line: {}0", line);
             Matcher sectionMatcher = sectionPattern.matcher(line);
             Matcher lessonMatcher = lessonPattern.matcher(line);
 
@@ -52,7 +55,8 @@ public class Parser {
                     throw new ParseException(line, 0);
                 }
             } else {
-                System.err.println("Unknown line type!");
+                LOG.warn("Unknown line type: {}", line);
+                course.addErrorLine(line);
             }
 
             lineNum++;
@@ -61,6 +65,5 @@ public class Parser {
         return course;
 
     }
-
 
 }
