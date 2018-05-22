@@ -28,6 +28,19 @@
                 </configuration>
             </plugin>
 
+            <!-- Delete previous config -->
+            <plugin>
+                <artifactId>maven-clean-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <filesets>
+                        <fileset>
+                            <directory>../.conf</directory>
+                        </fileset>
+                    </filesets>
+                </configuration>
+            </plugin>
+
             <!-- Copy configuration -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -35,7 +48,23 @@
                 <version>3.0.2</version>
                 <executions>
                     <execution>
-                        <id>copy-conf</id>
+                        <id>copy-conf-ide</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>copy-resources</goal>
+                        </goals>
+                        <configuration>
+                            <outputDirectory>../.conf</outputDirectory>
+                            <resources>
+                                <resource>
+                                    <directory>.conf</directory>
+                                    <filtering>true</filtering>
+                                </resource>
+                            </resources>
+                        </configuration>
+                    </execution>
+                    <execution>
+                        <id>copy-conf-build</id>
                         <phase>package</phase>
                         <goals>
                             <goal>copy-resources</goal>
