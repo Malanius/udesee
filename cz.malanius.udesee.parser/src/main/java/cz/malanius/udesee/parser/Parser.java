@@ -28,7 +28,7 @@ public class Parser {
         List<String> lines = new ArrayList<>(Arrays.asList(clean.split("\n")));
 
         Section section = null;
-        Lesson lesson;
+        Lecture lecture;
         int lineNum = 0;
 
         for (String line : lines) {
@@ -47,11 +47,11 @@ public class Parser {
             } else if (lessonMatcher.matches()) {
                 String lessonName = lessonMatcher.group(lessonNameGroup);
                 int lessonNumber = Integer.parseInt(lessonMatcher.group(lessonNumberGroup));
-                lesson = new Lesson(lessonNumber, lessonName);
+                lecture = new Lecture(lessonNumber, lessonName);
                 if (section != null) {
-                    section.addLesson(lesson);
+                    section.addLesson(lecture);
                 } else {
-                    System.err.println("No section to append the lesson to!");
+                    System.err.println("No section to append the lecture to!");
                     throw new ParseException(line, 0);
                 }
             } else {
