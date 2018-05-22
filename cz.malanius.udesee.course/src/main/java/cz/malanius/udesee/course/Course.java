@@ -2,6 +2,7 @@ package cz.malanius.udesee.course;
 
 import org.slf4j.LoggerFactory;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -13,6 +14,7 @@ public class Course {
 
     private final String courseName;
     private List<Section> sections;
+    private List<String> errorLines = new ArrayList<>();
 
     public Course(String courseName, String url) {
         this.courseName = courseName;
@@ -27,6 +29,14 @@ public class Course {
 
     public List<Section> getSections() {
         return sections;
+    }
+
+    public List<String> getErrorLines() {
+        return errorLines;
+    }
+
+    public void addErrorLine(String line) {
+        errorLines.add(line);
     }
 
     public void addSection(Section section) {
