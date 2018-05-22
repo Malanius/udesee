@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cz.malanius.udesee.cli" />
         <module name="cz.malanius.udesee.course" />
         <module name="cz.malanius.udesee.parser" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cz.malanius.udesee.cli" target="9" />
       <module name="cz.malanius.udesee.conf" target="9" />
       <module name="cz.malanius.udesee.course" target="9" />
       <module name="cz.malanius.udesee.parser" target="9" />

@@ -17,7 +17,7 @@ class Cleaner {
         //No instances allowed
     }
 
-    public static String cleanText(String input) {
+    static String cleanText(String input) {
         String result;
         result = removeProgress(input);
         result = removeTime(result);

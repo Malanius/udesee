@@ -1,0 +1,291 @@
+Section: 1
+6 / 6
+Introduction
+1. Introduction To The Certified Developer - Associate Course
+9:43
+2. Information For Students Who Have Completed The Solutions Architect Course
+3:21
+3. Setting The Right Expectations, This Is Not A Course To Teach You How To Code
+1:59
+4. What You'll Need To Do This Course
+1:05
+5. Exam Blue Print
+2:53
+ AWS Exam Guide (BluePrint)
+6. The Free Alexa Skill For Amazon Echo
+3:31
+Section: 2
+9 / 9
+AWS - 10,000 Feet Overview
+7. The History So Far
+9:52
+8. 10,000 Foot Overview - 1 of 4
+9:20
+9. 10,000 Foot Overview - 2 of 4
+20:25
+10. 10,000 Foot Overview - 3 of 4
+19:51
+11. 10,000 Foot Overview - 4 of 4
+20:31
+12. Don't Freak Out!
+4:35
+13. Setting Up A Free Tier Account
+3:23
+14. AWS This Week
+1:13
+Quiz 1: 10,000 Feet Overview Review
+0:00
+Section: 3
+7 / 7
+Identity Access Management (IAM)
+15. IAM 101
+3:32
+16. IAM - Lab
+20:11
+17. Security Token Service (STS)
+8:07
+18. Active Directory Federation
+3:15
+19. Web Identity Federation
+4:45
+20. IAM - Summary
+4:55
+Quiz 2: Identity Access Management Quiz
+0:00
+Section: 4
+9 / 21
+EC2 & Getting Setup
+21. EC2 101 - Part 1
+17:55
+22. EC2 101 - Part 2
+13:28
+23. Launch Our First EC2 Instance - Part 1
+20:23
+24. Launch Our First EC2 Instance - Part 2
+11:43
+25. How to use Putty (Windows Users Only)
+6:31
+26. Security Groups
+16:07
+27. Upgrading EBS Volume Types - Lab
+15:57
+28. EFS - Lab
+14:43
+29. The AWS CLI - Using Credentials
+8:29
+30. The AWS CLI - Using Roles
+9:19
+31. CLI Commands For The Developer Exam
+13:57
+32. S3 CLI & Regions
+9:27
+33. Bash Scripting
+14:41
+34. Installing PHP & Composer
+8:18
+ s3bootstrap.sh
+35. Using the PHP SDK to access S3
+10:07
+36. EC2 Instance Meta-data
+5:18
+ Instance Metadata and User Data
+37. Elastic Load Balancers - Exam Tips
+19:58
+38. SDK's - Exam Tips
+1:56
+39. Lambda
+18:51
+40. Summary of EC2 Section
+18:30
+Quiz 3: EC2 Quiz
+0:00
+Section: 5
+0 / 20
+S3
+41. S3 Essentials
+21:45
+42. Creating An S3 Bucket Using The Console
+15:17
+43. Create An S3 Website
+7:48
+44. CORS Configuration
+9:23
+ CORS.zip
+45. Build A Serverless Webpage
+18:20
+ index.html
+ error.html
+ hellocloudgurus.py
+46. Using Polly To Help You Pass Your Exam - A Serverless Approach - Part 1
+19:10
+ Change to Lambda Console.txt
+47. Using Polly To Help You Pass Your Exam - A Serverless Approach - Part 2
+8:43
+ pollyassets.zip
+48. Build An Alexa Skill
+16:34
+ Alexa-Build-A-Skill.zip
+49. S3 Version Control
+13:10
+50. Cross Region Replication
+16:48
+51. S3 Lifecycle Management & Glacier
+7:34
+52. Cloud Front Overview
+9:22
+53. Create a CDN
+20:18
+54. S3 - Security & Encryption
+5:39
+55. Storage Gateway
+16:01
+56. Snowball
+8:42
+57. S3 Transfer Acceleration
+4:13
+58. Guru Of The Week
+1:12
+59. S3 Summary
+18:45
+Quiz 4: S3 Quiz
+0:00
+Section: 6
+0 / 1
+Databases Overview & Concepts
+60. Database Essentials
+13:56
+Section: 7
+0 / 9
+DynamoDB
+61. Introduction to DynamoDB
+9:34
+62. Creating a DynamoDB Table
+9:32
+ dynamodb.sh
+63. DynamoDB Indexes
+19:52
+64. Scan vs Query API Calls
+7:27
+65. DynamoDB & Provisioned Throughput
+9:41
+66. Using Web Identity Providers To Connect To Authenticate To DynamoDB
+8:12
+67. Other important aspects of DynamoDB
+5:31
+68. DynamoDB Summary
+12:59
+Quiz 5: DynamoDB
+0:00
+Section: 8
+0 / 3
+Simple Queue Service (SQS)
+69. What is SQS?
+13:41
+70. SQS Developer Exam Tips
+5:46
+Quiz 6: SQS Quiz
+0:00
+Section: 9
+0 / 4
+Simple Notification Services (SNS)
+71. Introduction to SNS
+5:57
+72. Creating an SNS Topic
+5:24
+73. SNS Summary
+1:17
+Quiz 7: SNS Quiz
+0:00
+Section: 10
+0 / 2
+Simple Workflow Service (SWF)
+74. Introduction to SWF
+8:48
+Quiz 8: SWF Quiz
+0:00
+Section: 11
+0 / 2
+Elastic Beanstalk
+75. Using Elastic Beanstalk
+21:45
+Quiz 9: Elastic Beanstalk Quiz
+0:00
+Section: 12
+0 / 2
+CloudFormation
+76. Using Cloud Formation
+15:50
+ Templates in YAML & JSON
+Quiz 10: Cloud Formation Quiz
+0:00
+Section: 13
+0 / 2
+AWS Shared Responsibility
+77. Shared Responsibility Model
+7:07
+Quiz 11: Shared Responsibility Quiz
+0:00
+Section: 14
+0 / 9
+Route53 & DNS
+78. DNS 101
+17:01
+79. Route53 - Register Your Domain Lab
+4:37
+80. Setup Our EC2 Instances
+10:28
+ bashscript.txt
+81. Simple Routing Policy Lab
+5:55
+82. Weighted Routing Policy Lab
+6:02
+83. Latency Routing Policy Lab
+4:52
+84. Failover Routing Policy Lab
+9:31
+85. Geolocation Routing Policy
+4:24
+86. DNS Summary
+3:41
+Section: 15
+0 / 12
+Virtual Private Cloud (VPC)
+87. VPC Overview
+13:56
+88. Building Our Own Custom VPC
+18:02
+ bootstrap.txt
+89. Build A Custom VPC - Part 2
+5:26
+90. Network Address Translation (NAT)
+13:43
+91. Access Control Lists (ACLs)
+13:46
+92. Custom VPC's and ELBs
+2:30
+93. VPC Flow Logs
+4:27
+94. NAT's vs Bastions
+3:57
+95. VPC End Points
+6:49
+96. VPC Clean Up
+3:29
+97. VPC Summary
+6:09
+Quiz 12: VPC Quiz
+0:00
+Section: 16
+0 / 2
+The Exam
+98. What to expect?
+2:57
+Quiz 13: Mega Quiz!
+0:00
+Section: 17
+0 / 2
+What's next?
+99. Thank You and What's Next?
+6:17
+100. Questions? Check out our discussion forums!
+5:35
