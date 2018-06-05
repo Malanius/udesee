@@ -1,19 +1,12 @@
 package cz.malanius.udesee.course;
 
-import org.slf4j.LoggerFactory;
+public abstract class Lesson {
+    final int lessonNumber;
+    final String lessonName;
 
-public class Lesson {
-
-    private static final org.slf4j.Logger LOG = LoggerFactory.getLogger(Lesson.class);
-
-    private final int lessonNumber;
-    private final String lessonName;
-
-    public Lesson(int lessonNumber, String lessonName) {
-        this.lessonNumber = lessonNumber;
-        this.lessonName = lessonName;
-
-        LOG.debug("New Lesson: {}", this.toString());
+    Lesson(int exerciseNumber, String exerciseName) {
+        this.lessonNumber = exerciseNumber;
+        this.lessonName = exerciseName;
     }
 
     public int getLessonNumber() {
@@ -30,7 +23,7 @@ public class Lesson {
 
     @Override
     public String toString() {
-        return "Lesson{" +
+        return "Lecture{" +
                 "lessonNumber=" + lessonNumber +
                 ", lessonName='" + lessonName + '\'' +
                 '}';
