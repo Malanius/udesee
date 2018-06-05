@@ -11,7 +11,7 @@ public class Section {
 
     private final String sectionName;
     private final int sectionNumber;
-    private List<Lecture> lectures;
+    private List<Lesson> lectures;
 
     public Section(String sectionName, int sectionNumber) {
         this.sectionName = sectionName;
@@ -29,13 +29,13 @@ public class Section {
         return sectionNumber;
     }
 
-    public List<Lecture> getLectures() {
+    public List<Lesson> getLectures() {
         return lectures;
     }
 
-    public void addLesson(Lecture lecture) {
-        LOG.debug("Adding Lecture {} to Section {}", lecture.toString(), this.getSectionName());
-        this.lectures.add(lecture);
+    public void addLesson(Lesson lesson) {
+        LOG.debug("Adding Lecture {} to Section {}", lesson.toString(), this.getSectionName());
+        this.lectures.add(lesson);
     }
 
     public String getSectionLine() {
