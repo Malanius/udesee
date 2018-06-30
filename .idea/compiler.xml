@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cz.malanius.udesee.cli" />
         <module name="cz.malanius.udesee.course" />
+        <module name="cz.malanius.udesee.exporter" />
         <module name="cz.malanius.udesee.parser" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="cz.malanius.udesee.cli" target="9" />
       <module name="cz.malanius.udesee.conf" target="9" />
       <module name="cz.malanius.udesee.course" target="9" />
+      <module name="cz.malanius.udesee.exporter" target="9" />
       <module name="cz.malanius.udesee.parser" target="9" />
       <module name="udesee" target="9" />
     </bytecodeTargetLevel>
