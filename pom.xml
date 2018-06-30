@@ -15,6 +15,7 @@
         <module>cz.malanius.udesee.parser</module>
         <module>cz.malanius.udesee.cli</module>
         <module>cz.malanius.udesee.exporter</module>
+        <module>cz.malanius.udesee.exporter.trello</module>
     </modules>
 
     <properties>
