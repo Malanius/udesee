@@ -11,12 +11,12 @@ public class Section {
 
     private final String sectionName;
     private final int sectionNumber;
-    private List<Lesson> lectures;
+    private List<Lesson> lessons;
 
     public Section(String sectionName, int sectionNumber) {
         this.sectionName = sectionName;
         this.sectionNumber = sectionNumber;
-        this.lectures = new LinkedList<>();
+        this.lessons = new LinkedList<>();
 
         LOG.debug("New Section: {}", this.toString());
     }
@@ -29,13 +29,13 @@ public class Section {
         return sectionNumber;
     }
 
-    public List<Lesson> getLectures() {
-        return lectures;
+    public List<Lesson> getLessons() {
+        return lessons;
     }
 
     public void addLesson(Lesson lesson) {
         LOG.debug("Adding Lecture {} to Section {}", lesson.toString(), this.getSectionName());
-        this.lectures.add(lesson);
+        this.lessons.add(lesson);
     }
 
     public String getSectionLine() {
@@ -47,7 +47,7 @@ public class Section {
         return "Section{" +
                 "sectionName='" + sectionName + '\'' +
                 ", sectionNumber=" + sectionNumber +
-                ", lectures=" + lectures +
+                ", lessons=" + lessons +
                 '}';
     }
 }
