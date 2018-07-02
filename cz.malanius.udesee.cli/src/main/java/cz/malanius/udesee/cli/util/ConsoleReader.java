@@ -8,4 +8,23 @@ public class ConsoleReader {
     public static String readLine() {
         return scanner.nextLine();
     }
+
+    public static int select(int optionsCount) {
+        boolean correct = false;
+        int chosen = -1;
+        while (!correct) {
+            try {
+                chosen = Integer.parseInt(scanner.nextLine());
+                if (chosen > 0 && chosen <= optionsCount) {
+                    correct = true;
+                } else {
+                    ConsoleWriter.printUserWarn("Incorrect choice, please choose between 1-" + optionsCount);
+                }
+            } catch (NumberFormatException ex) {
+                ConsoleWriter.printUserWarn("Not a number!");
+            }
+
+        }
+        return chosen;
+    }
 }
