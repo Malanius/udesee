@@ -1,4 +1,4 @@
-module cz.malanius.udesee.text {
+module cz.malanius.udesee.parser {
 
     requires cz.malanius.udesee.course;
     requires slf4j.api;
