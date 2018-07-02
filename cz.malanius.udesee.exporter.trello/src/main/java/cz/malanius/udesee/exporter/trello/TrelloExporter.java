@@ -6,5 +6,6 @@ public class TrelloExporter implements Exporter {
     @Override
     public void exportWithCli() {
 
+    public void exportWithCli(Course course) {
     }
 }
