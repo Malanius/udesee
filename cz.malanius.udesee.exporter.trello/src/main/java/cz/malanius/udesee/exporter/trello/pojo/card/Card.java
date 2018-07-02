@@ -296,33 +296,6 @@ public class Card {
 
     @Override
     public String toString() {
-        return "Card{" +
-                "id='" + id + '\'' +
-                ", badges=" + badges +
-                ", checkItemStates=" + checkItemStates +
-                ", closed=" + closed +
-                ", dueComplete=" + dueComplete +
-                ", dateLastActivity='" + dateLastActivity + '\'' +
-                ", desc='" + desc + '\'' +
-                ", descData=" + descData +
-                ", due=" + due +
-                ", email=" + email +
-                ", idBoard='" + idBoard + '\'' +
-                ", idChecklists=" + idChecklists +
-                ", idList='" + idList + '\'' +
-                ", idMembers=" + idMembers +
-                ", idMembersVoted=" + idMembersVoted +
-                ", idShort=" + idShort +
-                ", idAttachmentCover='" + idAttachmentCover + '\'' +
-                ", manualCoverAttachment=" + manualCoverAttachment +
-                ", labels=" + labels +
-                ", idLabels=" + idLabels +
-                ", name='" + name + '\'' +
-                ", pos=" + pos +
-                ", shortLink='" + shortLink + '\'' +
-                ", shortUrl='" + shortUrl + '\'' +
-                ", subscribed=" + subscribed +
-                ", url='" + url + '\'' +
-                '}';
+        return name;
     }
 }

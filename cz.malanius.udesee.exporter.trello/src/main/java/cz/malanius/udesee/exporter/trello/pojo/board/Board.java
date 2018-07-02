@@ -129,18 +129,6 @@ public class Board {
 
     @Override
     public String toString() {
-        return "Board{" +
-                "id='" + id + '\'' +
-                ", name='" + name + '\'' +
-                ", desc='" + desc + '\'' +
-                ", descData=" + descData +
-                ", closed=" + closed +
-                ", idOrganization='" + idOrganization + '\'' +
-                ", pinned=" + pinned +
-                ", url='" + url + '\'' +
-                ", shortUrl='" + shortUrl + '\'' +
-                ", prefs=" + prefs +
-                ", labelNames=" + labelNames +
-                '}';
+        return name;
     }
 }

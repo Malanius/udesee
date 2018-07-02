@@ -19,7 +19,7 @@ public class TList {
     private String idBoard;
     @SerializedName("pos")
     @Expose
-    private int pos;
+    private Double pos;
     @SerializedName("subscribed")
     @Expose
     private boolean subscribed;
@@ -56,11 +56,11 @@ public class TList {
         this.idBoard = idBoard;
     }
 
-    public int getPos() {
+    public Double getPos() {
         return pos;
     }
 
-    public void setPos(int pos) {
+    public void setPos(Double pos) {
         this.pos = pos;
     }
 
@@ -74,13 +74,6 @@ public class TList {
 
     @Override
     public String toString() {
-        return "TList{" +
-                "id='" + id + '\'' +
-                ", name='" + name + '\'' +
-                ", closed=" + closed +
-                ", idBoard='" + idBoard + '\'' +
-                ", pos=" + pos +
-                ", subscribed=" + subscribed +
-                '}';
+        return name;
     }
 }
