@@ -5,7 +5,7 @@ import cz.malanius.udesee.cli.util.ConsoleWriter;
 import cz.malanius.udesee.course.Course;
 import cz.malanius.udesee.course.Lesson;
 import cz.malanius.udesee.course.Section;
-import cz.malanius.udesee.exporter.Exporter;
+import cz.malanius.udesee.exporter.ExporterService;
 import cz.malanius.udesee.exporter.trello.api.Requester;
 import cz.malanius.udesee.exporter.trello.pojo.board.Board;
 import cz.malanius.udesee.exporter.trello.pojo.card.Card;
@@ -18,9 +18,9 @@ import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.List;
 
-public class TrelloExporter implements Exporter {
+public class TrelloExporterService implements ExporterService {
 
-    private static final org.slf4j.Logger LOG = org.slf4j.LoggerFactory.getLogger(TrelloExporter.class);
+    private static final org.slf4j.Logger LOG = org.slf4j.LoggerFactory.getLogger(TrelloExporterService.class);
 
     private Requester requester = new Requester();
 
@@ -80,5 +80,10 @@ public class TrelloExporter implements Exporter {
                 requester.postChecklistItem(lesson.getLessonLine(), checklist.getId());
             }
         }
+    }
+
+    @Override
+    public String toString() {
+        return "Trello card checklist";
     }
 }

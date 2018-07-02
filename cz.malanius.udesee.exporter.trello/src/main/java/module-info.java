@@ -1,3 +1,6 @@
+import cz.malanius.udesee.exporter.ExporterService;
+import cz.malanius.udesee.exporter.trello.TrelloExporterService;
+
 module cz.malanius.udesee.exporter.trello {
 
     requires cz.malanius.udesee.exporter;
@@ -16,5 +19,5 @@ module cz.malanius.udesee.exporter.trello {
     opens cz.malanius.udesee.exporter.trello.pojo.token to gson;
 
     exports cz.malanius.udesee.exporter.trello;
-    provides cz.malanius.udesee.exporter.Exporter with cz.malanius.udesee.exporter.trello.TrelloExporter;
+    provides ExporterService with TrelloExporterService;
 }
