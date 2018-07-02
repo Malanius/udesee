@@ -16,7 +16,7 @@ public class Course {
     private List<Section> sections;
     private List<String> errorLines = new ArrayList<>();
 
-    public Course(String courseName, String url) {
+    public Course(String courseName) {
         this.courseName = courseName;
         this.sections = new LinkedList<>();
 
