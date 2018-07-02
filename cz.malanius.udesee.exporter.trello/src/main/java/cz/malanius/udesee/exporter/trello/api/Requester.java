@@ -143,7 +143,7 @@ public class Requester {
         URI postChecklistUri = URI.create(postChecklistEndpoint);
         LOG.debug("Generated checklist post request: {}", postChecklistUri);
 
-        ConsoleWriter.printUserInfo("Sending new checklist for section {}..." + checklistName);
+        ConsoleWriter.printUserInfo("Sending new checklist for section: " + checklistName);
         String checklistJSON = WebClient.postRequest(postChecklistUri);
         LOG.debug("POST checklist reply: " + checklistJSON);
 
@@ -157,7 +157,7 @@ public class Requester {
         URI postCheckItemUri = URI.create(postChekItemEndpoint);
         LOG.debug("Generated checklist post item request: {}", postCheckItemUri);
 
-        System.out.println("\tSending checklist item: " + itemName);
+        ConsoleWriter.printUserInfo("\tSending checklist item: " + itemName);
         String chekItemJSON = WebClient.postRequest(postCheckItemUri);
         LOG.debug("POST check item reply: " + chekItemJSON);
 
