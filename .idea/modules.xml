@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cz.malanius.udesee.cli/cz.malanius.udesee.cli.iml" filepath="$PROJECT_DIR$/cz.malanius.udesee.cli/cz.malanius.udesee.cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cz.malanius.udesee.conf/cz.malanius.udesee.conf.iml" filepath="$PROJECT_DIR$/cz.malanius.udesee.conf/cz.malanius.udesee.conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cz.malanius.udesee.course/cz.malanius.udesee.course.iml" filepath="$PROJECT_DIR$/cz.malanius.udesee.course/cz.malanius.udesee.course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cz.malanius.udesee.exporter/cz.malanius.udesee.exporter.iml" filepath="$PROJECT_DIR$/cz.malanius.udesee.exporter/cz.malanius.udesee.exporter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cz.malanius.udesee.exporter.trello/cz.malanius.udesee.exporter.trello.iml" filepath="$PROJECT_DIR$/cz.malanius.udesee.exporter.trello/cz.malanius.udesee.exporter.trello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cz.malanius.udesee.parser/cz.malanius.udesee.parser.iml" filepath="$PROJECT_DIR$/cz.malanius.udesee.parser/cz.malanius.udesee.parser.iml" />
       <module fileurl="file://$PROJECT_DIR$/udesee.iml" filepath="$PROJECT_DIR$/udesee.iml" />
     </modules>
   </component>

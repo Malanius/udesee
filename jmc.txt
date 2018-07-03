@@ -1,0 +1,1212 @@
+Section: 1
+1 / 1
+Introduction
+1. Getting Started With This Course
+7:58
+Section: 2
+10 / 10
+Setup
+2. Which version of Java should you use?
+5:16
+3. Install JDK 10 on Windows
+4:48
+ Oracle Java Site
+4. Install and Configure Intellij on Windows
+9:53
+ Jetbrains site
+5. Free 90 Day Extended Trial of IntelliJ Ultimate Edition Now Available
+0:00
+6. Install JDK 10 on a Mac
+2:19
+ Oracle Java Site
+7. Install and Configure Intellij on a Mac
+9:40
+ Jetbrains site
+8. Free 90 Day Extended Trial of IntelliJ Ultimate Edition Now Available
+0:00
+9. Install JDK 10 on Linux
+4:36
+ Oracle Java Site
+ Additional Linux JDK Notes
+10. Install and Configure Intellij on Linux
+9:39
+ Jetbrains site
+11. Free 90 Day Extended Trial of IntelliJ Ultimate Edition Now Available
+0:00
+Section: 3
+3 / 3
+First Steps
+12. Introduction
+0:37
+13. Creating Your First Java Project
+12:10
+ Source Code - First Steps - Creating Your First Java Project
+14. Exploring The IntelliJ Interface
+7:24
+Section: 4
+8 / 8
+Variables, Datatypes and Operators
+15. Introduction
+0:27
+16. What Are Variables?
+15:13
+ Source Code - Variables, Datatypes and Operators - What Are Variables
+17. Getting To Know Primitive Data Types - The Byte, Short, Int And Long
+18:45
+ Source Code - Variables, Datatypes and Operators - Getting To Know Primitive Data Types - The Byte, Short, Int And Long
+18. Getting To Know Primitive Data Types - Float And Double
+12:57
+ Source Code - Variables, Datatypes and Operators - Getting To Know Primitive Data Types - Float And Double
+19. Getting To Know Primitive Data Types - Char And Boolean
+7:22
+ Unicode Table website
+ Source Code - Variables, Datatypes and Operators - Getting To Know Primitive Data Types - Char And Boolean
+20. Understanding Strings And Finishing Up Primitive Data Types
+11:56
+ Source Code - Variables, Datatypes and Operators - Understanding Strings And Finishing Up Primitive Data Types
+21. Operators In Java
+16:12
+ Source Code - Variables, Datatypes and Operators - Operators In Java
+22. More On Operators And Operator Precedence
+19:22
+ Summary of Operators
+ Java Operator Precedence Table
+ Source Code - Variables, Datatypes and Operators - More On Operators And Operator Precedence
+Section: 5
+20 / 20
+Java Tutorial: Expressions, Statements, Code blocks, Methods and more
+23. Introduction
+0:31
+24. Keywords And Expressions
+7:18
+ List of Java Keywords
+ Source Code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Keywords And Expressions
+25. Statements, Whitespace and Indentation (Code Organization)
+9:24
+ Source Code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Statements, Whitespace and Intentation (Code Organization)
+26. Code Blocks And The If Then Else Control Statements
+17:08
+ Source Code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Code Blocks And The If Then Else Control Statements
+27. if then else Recap
+4:19
+28. Methods In Java
+18:01
+ Source Code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Methods In Java
+29. More On Methods And A Challenge
+15:34
+ lecture-28-challenge.txt
+ Source Code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - More On Methods And A Challenge
+30. Method Challenge - Final Code Changes
+7:27
+ Source code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Method Challenge - Final Changes to Code​
+31. DiffMerge Tool Introduction
+1:54
+32. Install DiffMerge
+2:01
+ Download DiffMerge
+33. Using DiffMerge
+17:29
+ Original Source code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Using DiffMerge​
+34. Coding Exercises
+13:24
+Coding Exercise 1: MegaBytes Converter
+0:00
+Coding Exercise 2: Barking Dog
+0:00
+Coding Exercise 3: Leap Year Calculator
+0:00
+35. Method Overloading
+27:01
+ Feet to Centimeters
+ Source Code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Method Overloading
+36. Method Overloading Recap
+3:38
+37. Seconds and Minutes Challenge
+13:49
+ Challenge Text - Seconds and Minutes Challenge
+ Source code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Seconds and Minutes Challenge​
+38. Bonus Challenge Solution
+11:12
+ Source code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Bonus Challenge Solution​
+Coding Exercise 4: Area Calculator
+0:00
+Section: 6
+15 / 15
+Control Flow Statements
+39. Introduction
+0:38
+40. The switch statement (+Challenge Exercise)
+19:32
+ lecture-31-challenge.txt
+ Source Code - Control Flow Statements - The switch statement (plus Challenge Exercise)
+41. Day of the Week Challenge
+10:47
+ Challenge Text - Day of the Week Challenge
+Coding Exercise 5: Number In Word
+0:00
+Coding Exercise 6: Number Of Days In Month
+0:00
+42. The for Statement (+Challenge Exercise)
+25:02
+ The First 1,000 Primes
+ lecture-32-challenge.txt
+ Source Code - Control Flow Statements - The for Statement (plus Challenge Exercise)
+43. For Loop Recap
+7:59
+44. Sum 3 and 5 Challenge
+6:13
+ Challenge Text - Sum 3 and 5 Challenge
+Coding Exercise 7: Sum Odd
+0:00
+45. The while and do while statements (+Challenge Exercise)
+24:21
+ lecture-33-challenge.txt
+ Source Code - Control Flow Statements - The while and do while statements (+Challenge Exercise)
+46. While and Do While Recap
+7:58
+47. Digit Sum Challenge
+10:30
+ Challenge Text - Digit Sum Challenge
+Coding Exercise 8: Number Palindrome
+0:00
+Coding Exercise 9: First And Last Digit Sum
+0:00
+Coding Exercise 10: Number To Words
+0:00
+Section: 7
+12 / 12
+OOP Part 1 - Classes, Constructors and Inheritance
+48. Introduction
+0:36
+49. Classes Part 1
+16:31
+ Source Code - OOP Part 1 - Classes Part 1
+50. Classes Part 2
+13:27
+ Source Code - OOP Part 1 - Classes Part 2
+51. Constructors - Part 1 (+Challenge Exercise)
+20:10
+ lecture-37-challenge.txt
+ Source Code - OOP Part 1 - Constructors - Part 1 (plus Challenge Exercise)
+52. Constructors - Part 2 (+Challenge Exercise)
+16:00
+ Withdrawal-method-bug-fix.zip
+ lecture-38-challenge.txt
+ Source Code - OOP Part 1 - Constructors - Part 2 (plus Challenge Exercise)
+53. Inheritance - Part 1
+19:39
+ Source Code - OOP Part 1 - Inheritance - Part 1
+54. Inheritance - Part 2
+13:24
+ Source Code - OOP Part 1 - Inheritance - Part 2
+55. Reference vs Object vs Instance vs Class
+6:52
+56. this vs super
+6:52
+57. Method Overloading vs Overriding Recap
+7:32
+58. Inheritance Challenge Part 1 (+Challenge Exercise)
+16:38
+ lecture-41-challenge.txt
+ Source Code - OOP Part 1 - Inheritance Challenge Part 1 (plus Challenge Exercise)
+59. Inheritance Challenge Part 2
+10:04
+ Source Code - OOP Part 1 - Inheritance Challenge Part 2
+Section: 8
+9 / 9
+OOP Part 2 - Composition, Encapsulation, and Polymorphism
+60. Introduction
+0:37
+61. Composition
+17:19
+ Source Code - OOP Part 2 - Composition
+62. Composition Part 2 (+Challenge Exercise)
+14:17
+ lecture-45-challenge.txt
+ Source Code - OOP Part 2 - Composition Part 2 (plus Challenge Exercise)
+63. Encapsulation
+19:23
+ Source Code - OOP Part 2 - Encapsulation
+64. Encapsulation (+Challenge Exercise)
+15:15
+ lecture-47-challenge.txt
+ Source Code - OOP Part 2 - Encapsulation (plus Challenge Exercise)
+65. Polymorphism
+20:35
+ Source Code - OOP Part 2 - Polymorphism
+66. Polymorphism (+Challenge Exercise)
+18:46
+ lecture-49-challenge.txt
+ Source Code - OOP Part 2 - Polymorphism (plus Challenge Exercise)
+67. OOP Master Challenge Exercise
+16:41
+ lecture-50-challenge.txt
+ Source Code - OOP Part 2 - OOP Master Challenge Exercise
+68. OOP Challenge - Solution
+16:46
+ Source Code - OOP Part 2 - OOP Challenge - Solution
+Section: 9
+21 / 21
+Arrays, Java inbuilt Lists, Autoboxing and Unboxing
+69. Arrays
+21:27
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - Arrays
+70. Arrays (Challenge Exercise)
+16:20
+ lecture-53-challenge.txt
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - Arrays (Challenge Exercise)
+71. Arrays Recap
+7:19
+72. List and ArrayList Part 1
+16:29
+ ArrayResizeDemo.java
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - List and ArrayList Part 1
+73. ArrayList Part 2
+20:11
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - ArrayList Part 2
+74. ArrayList Part 3
+16:48
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - ArrayList Part 3
+75. ArrayList Challenge Part 1
+14:00
+ lecture-57-challenge.txt
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - ArrayList Challenge Part 1
+76. ArrayList Challenge Part 2
+18:12
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - ArrayList Challenge Part 2
+77. ArrayList Challenge Part 3
+10:49
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - ArrayList Challenge Part 3
+78. Bug Fix for ArrayList Challenge
+6:41
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - Bug Fix for ArrayList Challenge
+79. Autoboxing and Unboxing
+16:16
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - Autoboxing and Unboxing
+80. Autoboxing & Unboxing (Challenge Exercise) - Part 1
+16:49
+ lecture-61-challenge.txt
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - Autoboxing & Unboxing (Challenge Exercise) - Part 1
+81. Autoboxing & Unboxing (Challenge Exercise) - Part 2
+17:08
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - Autoboxing & Unboxing (Challenge Exercise) - Part 2
+82. Autoboxing & Unboxing (Challenge Exercise) - Part 3
+9:32
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - Autoboxing & Unboxing (Challenge Exercise) - Part 3
+83. LinkedList Part 1
+16:43
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - LinkedList Part 1
+84. LinkedList Part 2
+15:30
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - LinkedList Part 2
+85. LinkedList Part 3
+20:46
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - LinkedList Part 3
+86. LinkedList Challenge Part 1
+15:05
+ lecture-67-challenge.txt
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - LinkedList Challenge Part 1
+87. Bug Fix for "Track 1" Error
+1:03
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - Bug Fix for "Track 1" Error
+88. LinkedList Challenge Part 2
+17:20
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - LinkedList Challenge Part 2
+89. LinkedList Challenge Part 3 (Final video)
+15:45
+ Source Code - Arrays, Java inbuilt Lists, Autoboxing and Unboxing - LinkedList Challenge Part 3 (Final video)
+Section: 10
+13 / 13
+Inner and Abstract Classes & Interfaces
+90. Interfaces
+12:34
+ Source Code - Inner and Abstract Classes & Interfaces - Interfaces
+91. Interfaces Part 2
+14:30
+ Source Code - Inner and Abstract Classes & Interfaces - Interfaces Part 2
+ Source Code - Inner and Abstract Classes & Interfaces - Interfaces Part 2 Mobile Phone
+92. Interfaces Challenge Part 1
+18:11
+ lecture-72-challenge.txt
+ Source Code - Inner and Abstract Classes & Interfaces - Interfaces Challenge Part 1
+93. Interfaces Challenge Part 2
+9:00
+ Source Code - Inner and Abstract Classes & Interfaces - Interfaces Challenge Part 2
+94. Inner classes Part 1
+17:10
+ Source Code - Inner and Abstract Classes & Interfaces - Inner classes Part 1
+95. Inner Classes Part 2
+14:45
+ Source Code - Inner and Abstract Classes & Interfaces - Inner Classes Part 2
+96. Inner Classes Challenge
+11:57
+ lecture-78-challenge.txt
+ Source Code - Inner and Abstract Classes & Interfaces - Inner Classes Challenge
+97. Abstract Classes Part 1
+16:42
+ Source Code - Inner and Abstract Classes & Interfaces - Abstract Classes Part 1
+98. Abstract Classes Part 2
+10:55
+ Source Code - Inner and Abstract Classes & Interfaces - Abstract Classes Part 2
+99. Interface vs Abstract Class
+4:48
+100. Abstract Class Challenge Part 1
+19:46
+ lecture-79-challenge.txt
+ Source Code - Inner and Abstract Classes & Interfaces - Abstract Class Challenge Part 1
+101. Abstract Class Challenge Part 2
+12:53
+ Source Code - Inner and Abstract Classes & Interfaces - Abstract Class Challenge Part 2
+102. Abstract Class Challenge Part 3 (includes recursion).
+19:46
+ Source Code - Inner and Abstract Classes & Interfaces - Abstract Class Challenge Part 3
+Section: 11
+5 / 5
+Java Generics
+103. Generics Introduction
+11:12
+ Source Code - Java Generics - Generics Introduction
+104. Our Generics Class
+11:37
+ Source Code - Java Generics - Our Generics Class
+105. Our Generics Class Part 2
+18:57
+ Source Code - Java Generics - Our Generics Class Part 2
+106. Our Generics Class Part 3
+10:13
+ Source Code - Java Generics - Our Generics Class Part 3
+107. Generics Challenge
+13:08
+ lecture-86-challenge.txt
+ Source Code - Java Generics - Generics Challenge
+Section: 12
+12 / 12
+Naming Conventions and Packages. static and final keywords
+108. Naming Conventions
+7:09
+109. Packages
+17:40
+ Source Code - Naming Conventions and Packages - Packages
+110. Packages Part 2
+11:40
+ Source Code - Naming Conventions and Packages - Packages Part 2
+111. Packages Part 3
+12:05
+ Source Code - Naming Conventions and Packages - Packages Part 3
+112. Packages (Challenge Exercise)
+13:28
+ lecture-91-challenge.txt
+ Source Code - Naming Conventions and Packages - Packages (Challenge Exercise)
+113. Scope
+17:25
+ Source Code - Naming Conventions and Packages - Scope
+114. Scope Part 2 and Visibility
+12:07
+ Source Code - Naming Conventions and Packages - Scope Part 2 and Visibility
+115. Scope +(Challenge Exercise)
+5:56
+ lecture-94-challenge.txt
+ Source Code - Naming Conventions and Packages - Scope plus (Challenge Exercise)
+116. Access Modifiers
+16:51
+ Source Code - Naming Conventions and Packages - Access Modifiers
+117. The static statement
+12:32
+ Source Code - Naming Conventions and Packages - The static statement
+118. The final statement
+14:37
+ Source Code - Naming Conventions and Packages - The final statement
+119. Final Part 2 and Static Initializers
+9:01
+ Source Code - Naming Conventions and Packages - Final Part 2 and Static Initializers
+Section: 13
+27 / 27
+Java Collections
+120. Collections Overview
+15:47
+ Source Code - Java Collections - Collections Overview
+121. Binary Search
+15:39
+ Interfaces Java Docs
+ Source Code - Java Collections - Binary Search
+122. Collections List Methods
+18:23
+ Source Code - Java Collections - Collections List Methods
+123. Comparable and Comparator
+18:55
+ Source Code - Java Collections - Comparable and Comparator
+124. Maps
+16:51
+ Maps Document Link
+ Source Code - Java Collections - Maps
+125. Map Continued and Adventure Game
+16:33
+ Source Code - Java Collections - Map Continued and Adventure Game
+126. Adding Exits to the Adventure game
+18:04
+ Source Code - Java Collections - Adding Exits to the Adventure game
+127. Adventure Game challenge
+8:13
+ lecture-106-challenge.txt
+ Source Code - Java Collections - Adventure Game challenge
+128. Immutable Classes
+15:42
+ A Strategy for Defining Immutable Objects
+ Source Code - Java Collections - Immutable Classes
+129. Immutable Class Challenge
+4:32
+ lecture-108-challenge.txt
+ Source Code - Java Collections - Immutable Class Challenge
+130. Sets & HashSet
+19:52
+ Virtual Machine Performance Enhancements
+ Source Code - Java Collections - Sets & HashSet
+131. HashSet - equals() and hashCode()
+16:52
+ Source Code - Java Collections - HashSet - equals() and hashCode()
+132. Finish off equals() and hashcode()
+10:56
+ equals documentation
+ Source Code - Java Collections - Finish off equals() and hashcode()
+133. Potential issue with equals() and sub-classing
+11:59
+ lecture-112-challenge.txt
+ Source Code - Java Collections - Potential issue with equals() and sub-classing
+134. Sets - Symmetric & Asymmetric
+15:34
+ The Set Interface
+ Source Code - Java Collections - Sets - Symmetric & Asymmetric
+135. Finishing Off Sets
+9:16
+ Source Code - Java Collections - Finishing Off Sets
+136. Sets Challenge Part 1
+15:26
+ lecture-115-challenge.txt
+ Source Code - Java Collections - Sets Challenge Part 1
+137. Sets Challenge Part 2
+12:50
+ Source Code - Java Collections - Sets Challenge Part 2
+138. Sets Challenge Part 3
+18:17
+ International Astronomical Union
+ Source Code - Java Collections - Sets Challenge Part 3
+139. Sorted Collections
+13:11
+ Source Code - Java Collections - Sorted Collections
+140. StockList Class With Maps
+17:05
+ Source Code - Java Collections - StockList Class With Maps
+141. Add a Basket
+15:49
+ Source Code - Java Collections - Add a Basket
+142. TreeMap and Unmodifiable Maps
+20:50
+ Source Code - Java Collections - TreeMap and Unmodifiable Maps
+143. Challenge Part 1
+12:40
+ lecture-122-challenge.txt
+ Source Code - Java Collections - Challenge Part 1
+144. Challenge Part 2
+10:52
+ Source Code - Java Collections - Challenge Part 2
+145. Challenge Part 3
+7:56
+ Source Code - Java Collections - Challenge Part 3
+146. Challenge Part 4 (Final)
+18:04
+ Source Code - Java Collections - Challenge Part 4 (Final)
+Section: 14
+44 / 44
+JavaFX
+147. Introduction
+17:31
+ Source Code - JavaFX - Introduction
+148. Code Vs FXml
+13:27
+ Source Code - JavaFX - Code Vs FXml
+149. GridPane Layout
+15:34
+ GridPane Oracle Docs
+ AnchorPane Oracle Docs
+ Source Code - JavaFX - GridPane Layout
+150. HBox Layout
+13:11
+ HBox Oracle Docs
+ VBox Oracle Docs
+ Source Code - JavaFX - HBox Layout
+151. BorderPane Layout
+13:16
+ BorderPane Oracle Docs
+ Source Code - JavaFX - BorderPane Layout
+152. Other Layouts
+17:09
+ FlowPane Oracle Docs
+ Stackpane Oracle Docs
+ TilePane Oracle Docs
+Show more (2)
+153. Controls
+15:17
+ Button Oracle Docs
+ Graphic Repository
+ Source Code - JavaFX - Controls
+154. RadioButton and CheckBox
+17:02
+ Source Code - JavaFX - RadioButton and CheckBox
+155. ComboBox and ChoiceBox
+17:13
+ Source Code - JavaFX - ComboBox and ChoiceBox
+156. Slider, Spinner, ColorPicker & DatePicker Controls
+14:30
+ Source Code - JavaFX - Slider, Spinner, ColorPicker & DatePicker Controls
+157. TitledPane
+6:42
+ Source Code - JavaFX - TitledPane
+158. Events and Event Handlers
+14:29
+ Source Code - JavaFX - Events and Event Handlers
+159. Events Continued
+14:38
+ Source Code - JavaFX - Events Continued
+160. UI Thread
+14:40
+ Checkbox JavaFX Oracle
+ Source Code - JavaFX - UI Thread
+161. Threads and Runnable
+16:18
+ Concurrency in JavaFX
+ Source Code - JavaFX - Threads and Runnable
+162. Setup Sample Todo List Application
+12:59
+ Source Code - JavaFX - Setup Sample Todo List Application
+163. Base Interface
+13:28
+ Source Code - JavaFX - Base Interface
+164. Add Change Listener
+14:17
+ Source Code - JavaFX - Add Change Listener
+165. Formatting Dates
+7:03
+ Class DateTimeFormatter​
+ Source Code - JavaFX - Formatting Dates
+166. Singletons
+15:04
+ Class DateTimeFormatter
+ Source Code - JavaFX - Singletons
+167. Load and Save ToDo Items from/to Disk
+16:25
+ Package java.nio
+ Class String
+ Source Code - JavaFX - Load and Save ToDo Items from/to Disk
+168. Add DialogPane
+16:31
+ Class DialogPane
+ Source Code - JavaFX - Add DialogPane
+169. Show Dialog and Add Controller Code
+14:33
+ Source Code - JavaFX - Show Dialog and Add Controller Code
+170. Bug Fix and Update List View
+10:27
+ Source Code - JavaFX - Bug Fix and Update List View
+171. Data Binding and Observable
+11:20
+ Class FXCollections
+ Lorem ipsum Generator
+ Source Code - JavaFX - Data Binding and Observable
+172. Cell Factories
+14:44
+ Source Code - JavaFX - Context Menu
+173. Context Menu
+15:37
+ Source Code - JavaFX - Context Menu
+174. KeyEvents and Toolbars
+15:41
+ Source Code - JavaFX - KeyEvents and Toolbars
+175. SortedList
+12:44
+ Source Code - JavaFX - SortedList
+176. FilteredList
+16:18
+ Source Code - JavaFX - FilteredList
+177. CSS With JavaFX
+17:39
+ JavaFX CSS Reference Guide
+ Source Code - JavaFX - CSS With JavaFX
+178. Transforming Nodes and Choosers
+16:37
+ Class Bloom
+ Source Code - JavaFX - Transforming Nodes and Choosers
+179. More on Choosers and Web Pages
+22:11
+ Class WebEngine
+ Source Code - JavaFX - More on Choosers and Web Pages
+180. SceneBuilder
+3:23
+181. Installing SceneBuilder for Windows
+5:00
+ Gluon Labs
+182. Installing SceneBuilder for Mac
+3:39
+ Scene Builder
+183. Overview of SceneBuilder
+7:15
+ Source Code - JavaFX - Overview of SceneBuilder
+184. Building a UI with SceneBuilder
+15:49
+ Source Code - JavaFX - Building a UI with SceneBuilder
+185. More on SceneBuilder
+17:27
+ setting up Scene Builder with NetBeans 8.0.2
+ Source Code - JavaFX - More on SceneBuilder
+186. JavaFX Challenge
+15:14
+ ContactData source file
+ Source Code - JavaFX - JavaFX Challenge
+187. JavaFX Challenge Part 2
+13:16
+ Source Code - JavaFX - JavaFX Challenge Part 2
+188. JavaFX Challenge Part 3
+16:07
+ Source Code - JavaFX - JavaFX Challenge Part 3
+189. JavaFX Challenge Part 4
+14:03
+ Source Code - JavaFX - JavaFX Challenge Part 4
+190. JavaFX Challenge Wrap up
+9:15
+ Source Code - JavaFX - JavaFX Challenge Wrap up
+Section: 15
+38 / 38
+Basic Input & Output including java.util
+191. Exceptions
+14:00
+ Source Code - Basic Input & Output including java.util - Exceptions
+192. Stack Trace and Call Stack
+13:04
+ Source Code - Basic Input & Output including java.util - Stack Trace and Call Stack
+193. Catching and throwing Exceptions
+14:20
+ Source Code - Basic Input & Output including java.util - Catching and throwing Exceptions
+194. Multi Catch Exceptions
+8:06
+ Source Code - Basic Input & Output including java.util - Multi Catch Exceptions
+195. Introduction to I/O
+15:55
+ Source Code - Basic Input & Output including java.util - Introduction to IO
+196. Writing content - FileWriter class and Finally block
+14:58
+ Souce Code - Basic Input & Output including java.util - Writing content - FileWriter class and Finally block
+197. Try with Resources
+12:12
+ The try-with-resources Statement
+ Source Code - Basic Input & Output including java.util - Try with Resources
+198. FileReader and Closeable
+12:55
+ lecture-156-challenge.txt
+ Source Code - Basic Input & Output including java.util - FileReader and Closeable
+199. BufferedReader
+12:59
+ Source Code - Basic Input & Output including java.util - BufferedReader
+200. Load Big Location and Exits Files
+7:29
+ GameData.zip
+ Source Code - Basic Input & Output including java.util - Load Big Location and Exits Files
+201. Challenge
+5:01
+ lecture-159-challenge.txt
+ Source Code - Basic Input & Output including java.util - Challenge
+202. Buffered Writer and Challenge
+13:11
+ Source Code - Basic Input & Output including java.util - Buffered Writer and Challenge
+203. Byte Streams
+15:45
+ Source Code - Basic Input & Output including java.util - Byte Streams
+204. Reading Binary Data and End of File Exceptions
+15:44
+ Source Code - Basic Input & Output including java.util - Reading Binary Data and End of File Exceptions
+205. Object Input Output including Serialization
+14:15
+ Source Code - Basic Input & Output including java.util - Object Input Output
+206. Finish Object I/O and RandomAccessFile class
+16:03
+ Source Code - Basic Input & Output including java.util - Finish Object IO and RandomAccessFile class
+207. Create Random Access File
+14:29
+ Source Code - Basic Input & Output including java.util - Create Random Access File
+208. Update Static Initializer Block With Random File Access
+11:37
+ Source Code - Basic Input & Output including java.util - Update Static Initializer Block With Random File Access
+209. Update Adventure Game to Read Random Access File
+14:20
+ Source Code - Basic Input & Output including java.util - Update Adventure Game to Read Random Access File
+210. Java NIO
+14:47
+ InputOutput NIO
+ Source Code - Basic Input & Output including java.util - Java NIO
+211. Writing Objects With Java NIO
+11:36
+ Source Code - Basic Input & Output including java.util - Writing Objects With Java NIO
+212. Reading and Writing with Java NIO
+15:47
+ Source Code - Basic Input & Output including java.util - Reading and Writing with Java NIO
+213. Writing Binary Files with Java NIO
+13:36
+ Souce Code - Basic Input & Output including java.util - Writing Binary Files with Java NIO
+214. Reading Files with NIO
+15:47
+ Basic Input & Output including java.util - Reading Files with NIO
+ Source Code - Basic Input & Output including java.util - Reading Files with NIO
+215. Absolute and Relative Reads
+11:10
+ Souce Code - Basic Input & Output including java.util - Absolute and Relative Reads
+216. Chained Put Methods
+13:55
+ Source Code - Basic Input & Output including java.util - Chained Put Methods
+217. Writing Sequentially
+13:04
+ Source Code - Basic Input & Output including java.util - Writing Sequentially
+218. FileChannel to Copy Files and Pipes with Threads
+15:04
+ Source Code - Basic Input & Output including java.util - FileChannel to Copy Files and Pipes with Threads
+219. Filesystem
+18:02
+ FileSystemText1.txt
+ FileSystemText2.txt
+ FileSystemText3.txt
+Show more (1)
+220. More on Paths
+12:17
+ Source Code - Basic Input & Output including java.util - More on Paths
+221. Exists and CopyFile
+11:59
+ Source Code - Basic Input & Output including java.util - Exists and CopyFile
+222. Move, Rename and Delete
+11:16
+ Source Code - Basic Input & Output including java.util - Move, Rename and Delete
+223. File Attributes
+12:50
+ Class Files
+ Interface BasicFileAttributes
+ Source Code - Basic Input & Output including java.util - File Attributes
+224. Read Existing Directory Contents
+14:15
+ getPathMatcher
+ Source Code - Basic Input & Output including java.util - Read Existing Directory Contents
+225. Separators Temp Files and File Stores
+12:25
+ Source Code - Basic Input & Output including java.util - Separators Temp Files and File Stores
+226. Walk File Tree
+11:33
+ Source Code - Basic Input & Output including java.util - Walk File Tree
+227. Copy Entire Tree
+12:58
+ Source Code - Basic Input & Output including java.util - Copy Entire Tree
+228. Mapping IO and NIO Methods
+12:53
+ Source Code - Basic Input & Output including java.util - Mapping IO and NIO Methods
+Section: 16
+29 / 29
+Concurrency in Java
+229. Concurrency and Threads Introduction
+6:59
+230. Threads
+13:32
+ Constants.txt
+ Source Code - Concurrency in Java - Threads
+231. Runnable and Thread
+13:19
+ Class Thread
+ Source Code - Concurrency in Java - Runnable and Thread
+232. Interrupt and Join
+9:44
+ Source Code - Concurrency in Java - Interrupt and Join
+233. Multiple Threads
+11:52
+ ThreadColor.java
+ Source Code - Concurrency in Java - Multiple Threads
+234. Thread Variables
+9:53
+ Source Code - Concurrency in Java - Thread Variables
+235. Synchronisation
+11:05
+ Source Code - Concurrency in Java - Synchronisation
+236. Producer and Consumer
+10:55
+ Source Code - Concurrency in Java - Producer and Consumer
+237. Deadlocks, wait, notify and notifyAll methods
+14:05
+ Class Collections
+ Source Code - Concurrency in Java - Deadlocks, wait, notify and notifyAll methods
+238. The Java Util Concurrent package
+12:09
+ ThreadColor.java
+ Source Code - Concurrency in Java - The Java Util Concurrent package
+239. Thread Interference
+11:15
+ Class ArrayList<E>
+ Source Code - Concurrency in Java - Thread Interference
+240. Reentrant Lock and Unlock
+10:28
+ Source Code - Concurrency in Java - Reentrant Lock and Unlock
+241. Using Try Finally With Threads
+10:36
+ Interface Lock
+ Source Code - Concurrency in Java - Using Try Finally With Threads
+242. Thread Pools
+12:03
+ Source Code - Concurrency in Java - Thread Pools
+243. ArrayBlockingQueue Class
+12:29
+ Interface ExecutorService
+ Source Code - Concurrency in Java - ArrayBlockingQueue Class
+244. Deadlocks
+10:34
+ Source Code - Concurrency in Java - Deadlocks
+245. More on Deadlocks
+14:06
+ Source Code - Concurrency in Java - More on Deadlocks
+246. Thread Starvation
+16:47
+ ThreadColor.java
+ Source Code - Concurrency in Java - Thread Starvation
+247. Fair Locks and Live Locks
+12:55
+ Source Code - Concurrency in Java - Fair Locks and Live Locks
+248. Live Lock Example and Slipped Conditions
+5:04
+ Source Code - Concurrency in Java - Live Lock Example and Slipped Conditions
+249. Other Thread Issues
+14:04
+ Package java.util.concurrent.atomic
+ Class AtomicInteger
+250. JavaFX Background Tasks
+15:25
+ Class Task<V>
+ Source Code - Concurrency in Java - JavaFX Background Tasks
+251. Data Binding
+10:16
+ Source Code - Concurrency in Java - Data Binding
+252. Service
+14:34
+ Source Code - Concurrency in Java - Service
+253. Challenge 1 and 2
+9:09
+ BankAccountClass.txt
+ Source Code - Concurrency in Java - Challenge 1 and 2
+254. Challenge 3,4 and 5
+11:15
+ Source Code - Concurrency in Java - Challenge 3,4 and 5
+255. Challenge 6 and 7
+11:00
+ Code.txt
+ Source Code - Concurrency in Java - Challenge 6 and 7
+256. Challenge 8
+5:30
+ challenge8code.txt
+ Source Code - Concurrency in Java - Challenge 8
+257. Challenge 9
+4:53
+ Source Code - Concurrency in Java - Challenge 9
+Section: 17
+13 / 13
+Lambda Expressions
+258. Lambda Expressions Introduction
+15:33
+ Interface Comparator<T>
+ Source Code - Lambda Expressions - Lambda Expressions Introduction
+259. Lambda Expressions Continued
+14:50
+ Source Code - Lambda Expressions - Lambda Expressions Continued
+260. Lambda Expressions Nested Blocks
+14:45
+ Source Code - Lambda Expressions - Lambda Expressions Nested Blocks
+261. Scope and Functional Programming
+15:02
+ Functional programming
+ Source Code - Lambda Expressions - Scope and Functional Programming
+262. Functional Interfaces & Predicates
+16:38
+ Interface Consumer<T>
+ Source Code - Lambda Expressions - Functional Interfaces & Predicates
+263. More on Predicates & Suppliers
+12:06
+ Source Code - Lambda Expressions - More on Predicates & Suppliers
+264. Functions
+13:11
+ Source Code - Lambda Expressions - Functions
+265. Chaining java.util.function Functions
+11:56
+ Package java.util.function
+ Lambda-Expressions-Chaining-java.util.function-Functions-table.png
+ Source Code - Lambda Expressions - Chaining java.util.function Functions
+266. Streams
+13:50
+ Method References
+ Interface Stream
+ Source Code - Lambda Expressions - Streams
+267. Streams - Intermediate and Terminal Operations
+13:06
+ Source Code - Lambda Expressions - Streams - Intermediate and Terminal Operations
+268. Streams - Flatmap & Lambda Best Practices
+21:30
+ Source Code - Lambda Expressions - Streams - Flatmap & Lambda Best Practices
+269. Lambda Challenge Part 1
+12:07
+ stringbuilder.java
+ anonymousrunnable.java
+ Source Code - Lambda Expressions - Lambda Challenge Part 1
+270. Lambda Challenge Part 2
+16:33
+ top15babynameslist.java
+ chain.java
+ Interface Comparator
+Show more (3)
+Section: 18
+8 / 8
+Regular Expressions
+271. Regular Expressions Introduction
+16:21
+ Source Code - Regular Expressions - Regular Expressions Introduction
+272. Character classes and Boundary Matchers
+13:55
+ Class Pattern
+ Source Code - Regular Expressions - Character classes and Boundary Matchers
+273. Quantifiers and the Pattern and Matcher classes
+14:42
+ Class Matcher
+ Class Pattern
+ Source Code - Regular Expressions - Quantifiers and the Pattern and Matcher classes
+274. Matcher find and Group Methods
+15:03
+ Class Matcher
+ Source Code - Regular Expressions - Matcher find and Group Methods
+275. And, Or & Not
+15:26
+ Source Code - Regular Expressions - And, Or & Not
+276. Regular Expressions Challenge Part 1
+17:04
+ Source Code - Regular Expressions - Regular Expressions Challenge Part 1
+277. Regular Expressions Challenge Part 2
+15:30
+ Matcher
+ Source Code - Regular Expressions - Regular Expressions Challenge Part 2
+278. Regular Expressions Challenge Part 3
+6:13
+ Source Code - Regular Expressions - Regular Expressions Challenge Part 3
+Section: 19
+11 / 11
+Debugging and Unit Testing
+279. Introduction to Debugging
+17:57
+ Source Code - Debugging and Unit Testing - Introduction to Debugging
+280. More on Debugging
+11:24
+ Source Code - Debugging and Unit Testing - More on Debugging
+281. Field Watch Points
+16:14
+ Source Code - Debugging and Unit Testing - Field Watch Points
+282. Advanced Debugging
+10:14
+ JTransforms
+ Source Code - Debugging and Unit Testing - Advanced Debugging
+283. Introduction to Unit Testing with JUnit
+16:20
+ Source Code - Debugging and Unit Testing - Introduction to Unit Testing with JUnit
+284. Asserts in Junit
+18:19
+ Source Code - Debugging and Unit Testing - Asserts in Junit
+285. More Asserts and Exception Handling
+16:34
+ Source Code - Debugging and Unit Testing - More Asserts and Exception Handling
+286. Parameterized Testing
+12:21
+ Source Code - Debugging and Unit Testing - Parameterized Testing
+287. JUnit Challenge #1 and #2
+21:41
+ Debugging and Unit Testing - JUnit Challenge 1 and 2​ - challenge code.txt
+ Source Code - Debugging and Unit Testing - JUnit Challenge 1 and 2
+288. JUnit Challenges #3 to #7
+12:22
+ Source Code - Debugging and Unit Testing - JUnit Challenges 3 to 7
+289. Junit Challenges #8 to #10
+12:06
+ Source Code - Debugging and Unit Testing - Junit Challenges 8 to 10
+Section: 20
+35 / 35
+Databases
+290. Section Introduction
+1:55
+291. Database Terminology
+10:32
+292. Install and Setup SQLite for Windows
+7:56
+293. Install and Setup SQLite for Mac
+2:00
+294. Install and Setup SQLite for Linux
+2:38
+295. Introduction to SQLite
+11:15
+296. More with SQLite
+10:42
+297. Querying Data With SQL
+16:02
+ SQLite Autoincrement
+ music.zip
+298. SQL Order by and Joins
+13:11
+299. More Complex Joins
+11:44
+300. Wildcards in Queries and Views
+15:17
+301. Housekeeping and Final SQL Challenge
+14:17
+302. JDBC and SQLite GUI Browser
+15:49
+ Bit Bucket
+ DB Browser for SQLite
+ Source Code - Databases - JDBC and SQLite GUI Browser
+303. Creating Databases With JDBC in Java
+17:26
+ Source Code - Databases - Creating Databases With JDBC in Java
+304. JDBC Insert, Update, Delete
+15:49
+ Source Code - Databases - JDBC Insert, Update, Delete
+305. .executeQuery() and using Constants
+20:39
+ Source Code - Databases - .executeQuery() and using Constants
+306. The Music SQLite Database
+12:43
+ Source Code - Databases - The Music SQLite Database
+307. Write Java Query for Artists
+14:46
+ Source Code - Databases - Write Java Query for Artists
+308. Executing SQL in DB Browser
+17:18
+ Source Code - Databases - Executing SQL in DB Browser
+309. Query Albums by Artist Method
+16:23
+ Source Code - Databases - Query Albums by Artist Method
+310. Query Artists for Song method
+15:03
+ Source Code - Databases - Query Artists for Song method
+311. Result Set Meta Data
+14:38
+ Interface ResultSetMetaData
+ Source Code- Databases - Result Set Meta Data
+312. Functions and Views
+16:38
+ Source Code - Databases - Functions and Views
+313. Write the Method to Query View
+11:48
+ Source Code - Databases - Write the Method to Query View
+314. SQL Injection Attacks and Prepared Statements
+17:01
+ Source Code - Databases - SQL Injection Attacks and Prepared Statements
+315. Transactions
+13:40
+ Source Code - Databases - Transactions
+316. Inserting Records With JDBC
+10:08
+ Source Code - Databases - Inserting Records With JDBC
+317. Insert Albums, Artists, and Songs
+14:00
+ Source Code - Databases - Insert Albums, Artists, and Songs
+318. Test Insert JDBC Code
+18:07
+ Source Code - Databases - Test Insert JDBC Code
+319. JDBC with a GUI Program
+17:53
+ main.fxml.txt
+ Source Code - Databases - JDBC with a GUI Program
+320. Add Artists
+12:35
+ Source Code - Databases - Add Artists
+321. Fix Artist and Preload Records
+13:24
+ Source Code - Databases - Fix Artist and Preload Records
+322. Implement Artist Query
+11:57
+ Source Code - Databases - Implement Artist Query
+323. Add ProgressBar
+9:38
+ Source Code - Databases - Add ProgressBar
+324. Handling Updates
+15:14
+ Source Code - Databases - Handling Updates
+Section: 21
+9 / 9
+Java Networking Programming
+325. Networking Overview
+9:39
+326. First Client and Server Apps
+15:02
+ Source Code - Java Networking - First Client and Server Apps
+327. Multi Threaded Server
+14:04
+ Source Code - Java Networking - Multi Threaded Server
+328. Multi-Threading and Timeouts
+12:46
+ Source Code - Java Networking - Multi-Threading and Timeouts
+329. UDP Server and Client
+18:13
+ Source Code - Java Networking - UDP Server and Client
+330. High Level APIS
+18:55
+ URIs, URLs, and URNs: Clarifications and Recommendations 1.0
+ Uniform Resource Identifier
+ Source Code - Java Networking - High Level APIS
+331. URL Connections and Input Stream Reader
+16:06
+ Example Domain
+ Code
+ Source Code - Java Networking - URL Connections and Input Stream Reader
+332. HTTPUrlConnection
+17:57
+ Method Definitions
+ List of HTTP header fields
+ Source Code - Java Networking - HTTPUrlConnection
+333. Alternatives to HTTPUrlConnection
+21:06
+ Public feed
+ Feed Url
+ JEP 110: HTTP/2 Client (Incubator)
+Show more (4)
+Section: 22
+3 / 3
+Java 9 Module System
+334. Introduction to Modules
+6:21
+335. Module Declarations and Statements
+2:08
+336. Module Types
+5:39
+Section: 23
+7 / 7
+Migrating Java Projects to Java 9
+337. Project Setup and Test
+7:23
+ music-ui-start.zip
+ Source Code - Migrating Java Projects to Java 9 - Project Setup and Test
+338. Structuring the new project
+4:02
+339. Creating the first module (Common)
+12:04
+ Source Code - Migrating Java Projects to Java 9 - Creating the first module (Common)
+340. Creating the Module Descriptor file
+13:25
+ Source Code - Migrating Java Projects to Java 9 - Creating the Module Descriptor file
+341. Creating the 2nd module (Database)
+10:44
+ Source Code - Migrating Java Projects to Java 9 - Creating the 2nd module (Database)
+342. Challenge - Create the final module (UI)
+9:52
+ Source Code - Migrating Java Projects to Java 9 - Challenge - Create the final module (UI)
+343. Transitive Dependencies
+7:29
+ Source Code - Migrating Java Projects to Java 9 - Transitive Dependencies
+Section: 24
+3 / 3
+Bonus Material
+344. Bonus - Please Watch!
+0:48
+345. All Courses
+0:00
+346. Source code for all Programs
