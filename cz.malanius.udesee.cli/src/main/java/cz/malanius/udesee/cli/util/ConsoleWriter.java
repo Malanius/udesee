@@ -1,5 +1,7 @@
 package cz.malanius.udesee.cli.util;
 
+import java.util.List;
+
 public class ConsoleWriter {
 
     public static void printUserMessage(String message, TextColor color) {
@@ -18,7 +20,15 @@ public class ConsoleWriter {
         printUserMessage(message, TextColor.RED);
     }
 
-    public static void printUserOk(String message){
+    public static void printUserOk(String message) {
         printUserMessage(message, TextColor.GREEN);
+    }
+
+    public static <T> void printListSelection(List<T> list) {
+        final int[] index = {1};
+        list.forEach(element -> {
+            printUserInfo(String.format("%d: %s", index[0], element.toString()));
+            index[0]++;
+        });
     }
 }

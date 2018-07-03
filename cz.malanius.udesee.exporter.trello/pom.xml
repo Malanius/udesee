@@ -9,13 +9,27 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>udesee.parser</artifactId>
+    <artifactId>udesee.exporter.trello</artifactId>
     <dependencies>
         <dependency>
             <groupId>cz.malanius</groupId>
-            <artifactId>udesee.course</artifactId>
+            <artifactId>udesee.exporter</artifactId>
             <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>cz.malanius</groupId>
+            <artifactId>udesee.cli</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.5</version>
+        </dependency>
+
     </dependencies>
 
 
