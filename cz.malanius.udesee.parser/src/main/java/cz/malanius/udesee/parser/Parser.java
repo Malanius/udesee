@@ -18,7 +18,7 @@ public class Parser {
     private static final int sectionNameGroup = 2;
 
     private static final Pattern lecturePattern = Pattern.compile("^(\\d+). (.*)$");
-    private static final Pattern excercisePattern = Pattern.compile("^Coding Exercise (\\d+): (.*)$");
+    private static final Pattern exercisePattern = Pattern.compile("^Coding Exercise (\\d+): (.*)$");
     private static final Pattern quizPattern = Pattern.compile("^Quiz (\\d+): (.*)$");
     private static final int lessonNumberGroup = 1;
     private static final int lessonNameGroup = 2;
@@ -37,7 +37,7 @@ public class Parser {
             LOG.debug("Parsing line: {}", line);
             Matcher sectionMatcher = sectionPattern.matcher(line);
             Matcher lessonMatcher = lecturePattern.matcher(line);
-            Matcher exerciseMatcher = excercisePattern.matcher(line);
+            Matcher exerciseMatcher = exercisePattern.matcher(line);
             Matcher quizMatcher = quizPattern.matcher(line);
 
             if (lineNum == 0 && !sectionMatcher.matches()) {
@@ -56,8 +56,8 @@ public class Parser {
                 lesson = getQuiz(quizMatcher);
                 addLesson(section, lesson, lineNum, line);
             } else {
-                LOG.warn("Unknown line type at line {}: {}", lineNum, line);
-                course.addErrorLine(line);
+                LOG.warn("Ignoring line line {}: {}", lineNum, line);
+                course.addIgnoredLine(line);
             }
 
             lineNum++;

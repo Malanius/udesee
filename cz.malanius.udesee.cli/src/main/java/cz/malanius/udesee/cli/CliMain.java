@@ -34,7 +34,6 @@ public class CliMain {
 
     }
 
-
     private static void loadExporters() {
         ServiceLoader.load(ExporterService.class).forEach(exporters::add);
         if (exporters.isEmpty()) {
@@ -70,12 +69,14 @@ public class CliMain {
             System.exit(1);
         }
 
-        if (!course.getErrorLines().isEmpty()) {
-            printUserWarn("Course imported, but some lines can't be interpreted:");
-            for (String errorLine : course.getErrorLines()) {
-                printUserWarn("\t" + errorLine);
+        if (!course.getIgnoredLines().isEmpty()) {
+            printUserWarn("Course imported, " + course.getIgnoredLines().size() + " lines were ignored.");
+            boolean listIgnored = ConsoleReader.yesOrNo("Do you want to list ignored lines", false);
+            if (listIgnored) {
+                for (String ignoredLine : course.getIgnoredLines()) {
+                    printUserWarn("\t" + ignoredLine);
+                }
             }
-            printUserWarn("Please report this on https://github.com/Malanius/udesee/issues");
         } else {
             printUserOk("Course successfully imported.");
         }

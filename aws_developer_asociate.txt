@@ -11,7 +11,7 @@ Introduction
 1:05
 5. Exam Blue Print
 2:53
- AWS Exam Guide (BluePrint)
+AWS Exam Guide (BluePrint)
 6. The Free Alexa Skill For Amazon Echo
 3:31
 Section: 2
@@ -34,7 +34,6 @@ AWS - 10,000 Feet Overview
 14. AWS This Week
 1:13
 Quiz 1: 10,000 Feet Overview Review
-0:00
 Section: 3
 7 / 7
 Identity Access Management (IAM)
@@ -51,12 +50,11 @@ Identity Access Management (IAM)
 20. IAM - Summary
 4:55
 Quiz 2: Identity Access Management Quiz
-0:00
 Section: 4
-9 / 21
+21 / 21
 EC2 & Getting Setup
 21. EC2 101 - Part 1
-17:55
+20:45
 22. EC2 101 - Part 2
 13:28
 23. Launch Our First EC2 Instance - Part 1
@@ -83,24 +81,24 @@ EC2 & Getting Setup
 14:41
 34. Installing PHP & Composer
 8:18
- s3bootstrap.sh
+s3bootstrap.sh
 35. Using the PHP SDK to access S3
 10:07
 36. EC2 Instance Meta-data
 5:18
- Instance Metadata and User Data
+Instance Metadata and User Data
 37. Elastic Load Balancers - Exam Tips
-19:58
+18:50
 38. SDK's - Exam Tips
 1:56
+AWS SDK support
 39. Lambda
 18:51
 40. Summary of EC2 Section
 18:30
 Quiz 3: EC2 Quiz
-0:00
 Section: 5
-0 / 20
+20 / 20
 S3
 41. S3 Essentials
 21:45
@@ -110,21 +108,21 @@ S3
 7:48
 44. CORS Configuration
 9:23
- CORS.zip
+CORS.zip
 45. Build A Serverless Webpage
 18:20
- index.html
- error.html
- hellocloudgurus.py
+index.html
+error.html
+hellocloudgurus.py
 46. Using Polly To Help You Pass Your Exam - A Serverless Approach - Part 1
 19:10
- Change to Lambda Console.txt
+Change to Lambda Console.txt
 47. Using Polly To Help You Pass Your Exam - A Serverless Approach - Part 2
 8:43
- pollyassets.zip
+pollyassets.zip
 48. Build An Alexa Skill
-16:34
- Alexa-Build-A-Skill.zip
+18:25
+Alexa-Build-A-Skill.zip
 49. S3 Version Control
 13:10
 50. Cross Region Replication
@@ -148,20 +146,19 @@ S3
 59. S3 Summary
 18:45
 Quiz 4: S3 Quiz
-0:00
 Section: 6
-0 / 1
+1 / 1
 Databases Overview & Concepts
 60. Database Essentials
 13:56
 Section: 7
-0 / 9
+9 / 9
 DynamoDB
 61. Introduction to DynamoDB
-9:34
+9:22
 62. Creating a DynamoDB Table
 9:32
- dynamodb.sh
+dynamodb.sh
 63. DynamoDB Indexes
 19:52
 64. Scan vs Query API Calls
@@ -171,22 +168,20 @@ DynamoDB
 66. Using Web Identity Providers To Connect To Authenticate To DynamoDB
 8:12
 67. Other important aspects of DynamoDB
-5:31
+5:28
 68. DynamoDB Summary
-12:59
+12:57
 Quiz 5: DynamoDB
-0:00
 Section: 8
-0 / 3
+3 / 3
 Simple Queue Service (SQS)
 69. What is SQS?
 13:41
 70. SQS Developer Exam Tips
 5:46
 Quiz 6: SQS Quiz
-0:00
 Section: 9
-0 / 4
+4 / 4
 Simple Notification Services (SNS)
 71. Introduction to SNS
 5:57
@@ -195,38 +190,33 @@ Simple Notification Services (SNS)
 73. SNS Summary
 1:17
 Quiz 7: SNS Quiz
-0:00
 Section: 10
-0 / 2
+2 / 2
 Simple Workflow Service (SWF)
 74. Introduction to SWF
 8:48
 Quiz 8: SWF Quiz
-0:00
 Section: 11
-0 / 2
+2 / 2
 Elastic Beanstalk
 75. Using Elastic Beanstalk
 21:45
 Quiz 9: Elastic Beanstalk Quiz
-0:00
 Section: 12
-0 / 2
+2 / 2
 CloudFormation
 76. Using Cloud Formation
 15:50
- Templates in YAML & JSON
+Templates in YAML & JSON
 Quiz 10: Cloud Formation Quiz
-0:00
 Section: 13
-0 / 2
+2 / 2
 AWS Shared Responsibility
 77. Shared Responsibility Model
 7:07
 Quiz 11: Shared Responsibility Quiz
-0:00
 Section: 14
-0 / 9
+9 / 9
 Route53 & DNS
 78. DNS 101
 17:01
@@ -234,7 +224,7 @@ Route53 & DNS
 4:37
 80. Setup Our EC2 Instances
 10:28
- bashscript.txt
+bashscript.txt
 81. Simple Routing Policy Lab
 5:55
 82. Weighted Routing Policy Lab
@@ -248,13 +238,13 @@ Route53 & DNS
 86. DNS Summary
 3:41
 Section: 15
-0 / 12
+12 / 12
 Virtual Private Cloud (VPC)
 87. VPC Overview
 13:56
 88. Building Our Own Custom VPC
 18:02
- bootstrap.txt
+bootstrap.txt
 89. Build A Custom VPC - Part 2
 5:26
 90. Network Address Translation (NAT)
@@ -274,16 +264,14 @@ Virtual Private Cloud (VPC)
 97. VPC Summary
 6:09
 Quiz 12: VPC Quiz
-0:00
 Section: 16
-0 / 2
+2 / 2
 The Exam
 98. What to expect?
 2:57
 Quiz 13: Mega Quiz!
-0:00
 Section: 17
-0 / 2
+2 / 2
 What's next?
 99. Thank You and What's Next?
 6:17
