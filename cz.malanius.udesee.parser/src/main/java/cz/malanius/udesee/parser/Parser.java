@@ -56,8 +56,8 @@ public class Parser {
                 lesson = getQuiz(quizMatcher);
                 addLesson(section, lesson, lineNum, line);
             } else {
-                LOG.warn("Unknown line type at line {}: {}", lineNum, line);
-                course.addErrorLine(line);
+                LOG.warn("Ignoring line line {}: {}", lineNum, line);
+                course.addIgnoredLine(line);
             }
 
             lineNum++;

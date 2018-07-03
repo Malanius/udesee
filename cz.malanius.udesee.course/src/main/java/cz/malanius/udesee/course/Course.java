@@ -14,7 +14,7 @@ public class Course {
 
     private final String courseName;
     private List<Section> sections;
-    private List<String> errorLines = new ArrayList<>();
+    private List<String> ignoredLines = new ArrayList<>();
 
     public Course(String courseName) {
         this.courseName = courseName;
@@ -31,12 +31,12 @@ public class Course {
         return sections;
     }
 
-    public List<String> getErrorLines() {
-        return errorLines;
+    public List<String> getIgnoredLines() {
+        return ignoredLines;
     }
 
-    public void addErrorLine(String line) {
-        errorLines.add(line);
+    public void addIgnoredLine(String line) {
+        ignoredLines.add(line);
     }
 
     public void addSection(Section section) {

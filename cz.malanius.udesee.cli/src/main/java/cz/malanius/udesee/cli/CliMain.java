@@ -70,12 +70,11 @@ public class CliMain {
             System.exit(1);
         }
 
-        if (!course.getErrorLines().isEmpty()) {
-            printUserWarn("Course imported, but some lines can't be interpreted:");
-            for (String errorLine : course.getErrorLines()) {
+        if (!course.getIgnoredLines().isEmpty()) {
+            printUserWarn("Course imported, some lines were ignored.");
+            for (String errorLine : course.getIgnoredLines()) {
                 printUserWarn("\t" + errorLine);
             }
-            printUserWarn("Please report this on https://github.com/Malanius/udesee/issues");
         } else {
             printUserOk("Course successfully imported.");
         }
